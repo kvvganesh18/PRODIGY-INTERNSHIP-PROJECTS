@@ -8,10 +8,5 @@ Stopwatch
 
 see [demo]
 
-web Application
 
-Comillas Negras
-Task-02
-
-PRODIGY INFOTECH
 
